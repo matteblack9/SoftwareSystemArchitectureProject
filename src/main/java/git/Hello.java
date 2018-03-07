@@ -5,3 +5,8 @@ public class Hello {
 		System.out.println("Hello Fucking World!");
 	}
 }
+
+class Gyeongmin{
+	void Hello() {
+	}
+}
